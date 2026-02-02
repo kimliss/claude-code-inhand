@@ -1,1 +1,1 @@
-# claude-code-inhand
+# Claude-Plugins-Inhand
