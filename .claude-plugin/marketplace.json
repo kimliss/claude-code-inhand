@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins-inhand",
-  "description": "Claude Code Plugin Marketplace - A curated collection of development plugins organized by scenario.",
+  "name": "inhand-claude-code-plugins",
+  "description": "A curated collection of development plugins organized by scenario, covering backend, frontend, mobile, DevOps and database workflows.",
   "version": "2.0.0",
   "owner": {
     "name": "kimliss"
@@ -23,7 +23,6 @@
       },
       "category": "development",
       "source": "./external_plugins/plugin-dev",
-      "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/plugins/plugin-dev",
       "tags": ["community-managed"]
     },
     {
