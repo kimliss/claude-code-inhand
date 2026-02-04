@@ -10,6 +10,8 @@ A curated plugin marketplace for [Claude Code](https://docs.anthropic.com/en/doc
 [![Categories](https://img.shields.io/badge/categories-6-green)](#plugin-catalog)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
+**English** | [简体中文](docs/zh-CN/README.md)
+
 [Getting Started](#getting-started) · [Plugin Catalog](#plugin-catalog) · [Contributing](#contributing)
 
 </div>
